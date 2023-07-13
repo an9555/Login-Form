@@ -1,0 +1,8 @@
+Service ID : service_imbjxwg
+
+Template ID : template_x6p3uhf
+
+Public Key : -jwKv0z9xZ8AhbRR9
+
+Private Key : extAnx1PP3jGe87PMrGWq
+
